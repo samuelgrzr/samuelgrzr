@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🦇 I'm Samuel García Zorrilla<br><br>🖥️ Finishing Web Apps Development</p>
+<p align="left">🦇 I'm Samuel García Zorrilla<br><br>🖥️ Web Developer</p>
 
 ###
 
